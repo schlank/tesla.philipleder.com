@@ -1,0 +1,1 @@
+Serve files as-is (Jekyll would skip the .well-known folder).
